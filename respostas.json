@@ -5,5 +5,5 @@
       "codigo": "The user likely asked about who AI is and how or why it was developed, and the answer was successfully delivered. "
     }
   },
-  "fallback": "Desculpe, Sou uma IA de baixo custo e meu banco de dados ainda é bem limitado para gerar uma resposta para essa pergunta. Não encontrei essa função no meu banco de dados. Tente perguntar sobre outro assunto
+  "fallback": "Desculpe, Sou uma IA de baixo custo e meu banco de dados ainda é bem limitado para gerar uma resposta para essa pergunta. Não encontrei essa função no meu banco de dados. Tente perguntar sobre outro assunto"
 }
